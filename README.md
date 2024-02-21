@@ -28,7 +28,7 @@ This project is a fully-functional website designed for apartment block reviews.
 
 * Review System: Users can view and leave reviews for apartment blocks, helping potential renters to make informed decisions.
 
-* Add New Blocks: Users can contribute by adding new apartment blocks to the platform.
+* Add New Apartment Blocks: Users can contribute by adding new apartment blocks to the platform.
 
 * Map View: Users are able to view the locations of the apartment blocks conveniently on a map.
 
