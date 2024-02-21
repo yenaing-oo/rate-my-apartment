@@ -1,0 +1,55 @@
+<% layout('layouts/boilerplate') %>
+    <div class="row">
+        <h1 class="text-center">New Apartment</h1>
+        <div class="col-md-6 offset-md-3">
+            <form action="/apartments" method="POST" novalidate class="validation-form" enctype="multipart/form-data">
+                <div class="mb-3">
+                    <label for="title" class="form-label">Title</label>
+                    <input type="text" class="form-control" id="title" name="apartment[title]" required>
+                    <div class="valid-feedback">
+                        Looks good!
+                    </div>
+                </div>
+
+                <div class="mb-3">
+                    <label for="location" class="form-label">Location</label>
+                    <input type="text" class="form-control" id="location" name="apartment[location]" required>
+                    <div class="valid-feedback">
+                        Looks good!
+                    </div>
+                </div>
+                
+                <div class="mb-3">
+                    <label for="rent" class="form-label">Monthly rent</label>
+                    <div class="input-group">
+                        <span class="input-group-text" id="rent-label">$</span>
+                        <input type="number" class="form-control" placeholder="0.00" aria-label="rent"
+                            aria-describedby="rent-label" name="apartment[rent]" required>
+                        <div class="valid-feedback">
+                            Looks good!
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="mb-3">
+                    <label for="description" class="form-label">Description</label>
+                    <textarea class="form-control" id="description" name="apartment[description]" required ></textarea>
+                    <div class="valid-feedback">
+                        Looks good!
+                    </div>
+                </div>
+
+                <div class="mb-3">
+                    <label for="image" class="form-label">Apartment image(s)</label>
+                    <input class="form-control" type="file" name="image" id="image" multiple>
+                </div>
+
+                <div class="mb-3">
+                    <button class="btn btn-success">Add Apartment</button>
+                </div>
+            </form>
+            <a href="/apartments">All Apartments</a>
+        </div>
+    </div>
+
+    
