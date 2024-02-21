@@ -20,7 +20,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](https://ratemyapartment.onrender.com)
 
 This project is a fully-functional website designed for apartment block reviews. Key features include:
 
