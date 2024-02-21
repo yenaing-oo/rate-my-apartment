@@ -10,6 +10,7 @@
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
+    <li><a href="#deployment">Deployment</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
@@ -36,11 +37,6 @@ The project aims to assist the apartment rental process by offering a user-frien
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Deployment
-
-Explore the live deployment of this project [here](https://ratemyapartment.onrender.com), hosted on [Render](https://render.com), and utilizing [MongoDB Atlas](https://www.mongodb.com/atlas/database) as the cloud database.
-
-
 ### Built With
 
 Major frameworks/libraries used in this project:
@@ -56,6 +52,11 @@ Major frameworks/libraries used in this project:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## Deployment
+
+Explore the live deployment of this project [here](https://ratemyapartment.onrender.com), hosted on [Render](https://render.com), and utilizing [MongoDB Atlas](https://www.mongodb.com/atlas/database) as the cloud database.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTACT -->
 ## Contact
