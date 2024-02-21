@@ -36,9 +36,13 @@ The project aims to assist the apartment rental process by offering a user-frien
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+### Deployment
+
+Explore the live deployment of this project [here](https://ratemyapartment.onrender.com), hosted on [Render](https://render.com), and utilizing [MongoDB Atlas](https://www.mongodb.com/atlas/database) as the cloud database.
+
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+Major frameworks/libraries used in this project:
 
 * [![Node][node-logo]][node-url]
 * [![Express][express-logo]][express-url]
