@@ -36,9 +36,10 @@ The project aims to assist the apartment rental process by offering a user-frien
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Deployment
+## Deployment
 
 Explore the live deployment of this project [here](https://ratemyapartment.onrender.com), hosted on [Render](https://render.com), and utilizing [MongoDB Atlas](https://www.mongodb.com/atlas/database) as the cloud database.
+
 
 ### Built With
 
