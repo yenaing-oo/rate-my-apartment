@@ -54,7 +54,7 @@ Major frameworks/libraries used in this project:
 
 ## Deployment
 
-Explore the live deployment of this project [here](https://ratemyapartment.onrender.com), hosted on [Render](https://render.com), and utilizing [MongoDB Atlas](https://www.mongodb.com/atlas/database) as the cloud database.
+Explore the live deployment of this project [here](https://rate-my-apartment-production.up.railway.app/), hosted on [Railway](https://railway.app/), and utilizing [MongoDB Atlas](https://www.mongodb.com/atlas/database) as the cloud database.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
