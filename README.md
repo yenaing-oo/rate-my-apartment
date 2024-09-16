@@ -21,7 +21,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://rate-my-apartment-production.up.railway.app/)
+[![Product Name Screen Shot][product-screenshot]](https://fly.io/apps/rate-my-apartment)
 
 This project is a fully-functional website designed for apartment block reviews. Key features include:
 
