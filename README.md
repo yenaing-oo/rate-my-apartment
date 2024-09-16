@@ -21,7 +21,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://fly.io/apps/rate-my-apartment)
+[![Product Name Screen Shot][product-screenshot]](https://rate-my-apartment.fly.dev/)
 
 This project is a fully-functional website designed for apartment block reviews. Key features include:
 
@@ -54,7 +54,7 @@ Major frameworks/libraries used in this project:
 
 ## Deployment
 
-Explore the live deployment of this project [here](https://fly.io/apps/rate-my-apartment), utilizing [MongoDB Atlas](https://www.mongodb.com/atlas/database) as the cloud database.
+Explore the live deployment of this project [here](https://rate-my-apartment.fly.dev/), utilizing [MongoDB Atlas](https://www.mongodb.com/atlas/database) as the cloud database.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
